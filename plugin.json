@@ -1,0 +1,23 @@
+{
+  "name": "superpowers",
+  "displayName": "Superpowers",
+  "version": "6.4.2",
+  "description": "Core skills library for coding agents: brainstorming, TDD, systematic debugging, subagent-driven development, and proven workflows.",
+  "author": {
+    "name": "Jesse Vincent",
+    "email": "jesse@fsck.com"
+  },
+  "homepage": "https://github.com/obra/superpowers",
+  "repository": "https://github.com/obra/superpowers",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "tdd",
+    "debugging",
+    "collaboration",
+    "best-practices",
+    "workflows",
+    "brainstorming",
+    "superpowers"
+  ]
+}
